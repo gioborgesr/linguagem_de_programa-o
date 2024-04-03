@@ -15,13 +15,9 @@ Menu LOTOFÁCIL:
 • Utilizando a biblioteca Scanner, leia um número inteiro via teclado, de 0 a 100,
 caso o número seja maior que 100 ou menor que 0, imprima a mensagem: “Aposta
 inválida.”.
-• Documentação:
-• https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
 • Utilize a biblioteca Random para sortear aleatoriamente um número de 0 a 100.
 • Compare o número escolhido pelo usuário apostador com o número sorteado pelo
 sistema.
-• Documentação:
-• https://docs.oracle.com/javase/8/docs/api/java/util/Random.html
 2
 • Caso o usuário acerte a aposta, imprima a mensagem “Você ganhou R$ 1.000,00
 reais.”. Caso o usuário erre, imprima a mensagem: “Que pena! O número sorteado
@@ -31,8 +27,6 @@ foi: X.”.
 ser lido como maiúsculo ou minúsculo. Caso não seja uma letra, imprima a
 mensagem: “Aposta inválida.”. Você poderá utilizar o método Character.isLetter()
 para verificar se a entrada digitada é uma letra válida.
-• Documentação:
-• https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
 • Converta a entrada do usuário apostador para maiúsculo, utilizando o método
 Character.toUpperCase().
 • Escolha a letra com a inicial do seu nome para ser a letra premiada.
