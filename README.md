@@ -22,9 +22,14 @@ Implementação:
 
 O programa foi desenvolvido em Java, utilizando as bibliotecas Scanner e Random para entrada de dados do usuário e geração de números aleatórios, respectivamente. O método System.in.read() foi utilizado para ler caracteres do teclado. As regras de cada tipo de aposta foram implementadas com estruturas de decisão condicional (if-else) para comparar as entradas do usuário com os resultados gerados pelo sistema.
 
+Interface Gráfica:
+
+![interfaceGraficaLP1](https://github.com/gioborgesr/linguagem_de_programa-o/assets/144972362/5b034537-7e2c-4c25-b415-decb2c7c7e87)
+![interfaceGraficaLP2](https://github.com/gioborgesr/linguagem_de_programa-o/assets/144972362/7afc01f4-108a-43c5-97c3-26067dd8bdb8)
+![interfaceGraficaLP3](https://github.com/gioborgesr/linguagem_de_programa-o/assets/144972362/41ad8a8e-dc14-481c-a77f-9aad6082ae6b)
+![interfaceGraficaLP4](https://github.com/gioborgesr/linguagem_de_programa-o/assets/144972362/72cc4758-c2a5-4ac4-a320-e3fca52eeae6)
 
 
-![Diagrama_maquinaEstado](https://github.com/gioborgesr/linguagem_de_programa-o/assets/144972362/49c02659-667e-46a6-95aa-969111c0e879)
 
 
 
