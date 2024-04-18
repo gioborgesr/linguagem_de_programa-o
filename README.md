@@ -24,6 +24,7 @@ O programa foi desenvolvido em Java, utilizando as bibliotecas Scanner e Random 
 
 
 
+![Diagrama_maquinaEstado](https://github.com/gioborgesr/linguagem_de_programa-o/assets/144972362/49c02659-667e-46a6-95aa-969111c0e879)
 
 
 
