@@ -3,10 +3,10 @@ Este projeto consiste em um programa em Java que permite aos usuários realizar 
 Funcionalidades Implementadas:
 
 1- Aposta de 0 a 100:
-O usuário insere um número inteiro de 0 a 100;
-Se o número estiver fora do intervalo permitido, o programa exibe "Aposta inválida";
-Um número aleatório dentro do intervalo de 0 a 100 é gerado;
-Se o número apostado pelo usuário coincidir com o número sorteado, o programa exibe "Você ganhou R$ 1.000,00 reais"; caso contrário, exibe "Que pena! O número sorteado foi: X";
+• O usuário insere um número inteiro de 0 a 100;
+• Se o número estiver fora do intervalo permitido, o programa exibe "Aposta inválida";
+• Um número aleatório dentro do intervalo de 0 a 100 é gerado;
+• Se o número apostado pelo usuário coincidir com o número sorteado, o programa exibe "Você ganhou R$ 1.000,00 reais"; caso contrário, exibe "Que pena! O número sorteado foi: X";
 2- Aposta de A à Z:
 O usuário insere uma letra de A à Z, que pode ser maiúscula ou minúscula;
 Se a entrada não for uma letra, o programa exibe "Aposta inválida";
