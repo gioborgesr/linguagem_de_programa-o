@@ -38,7 +38,7 @@ O programa foi desenvolvido em Java, utilizando as bibliotecas Scanner e Random 
 
 Interface Gráfica:
 
-Aqui conseguimos visualizar uma tela interativa que nos mostra todos os tipos possiveis de apostas do programa:
+Aqui conseguimos visualizar telas interativas que nos mostram todos os tipos possiveis de apostas do programa:
 
 ![interfaceGraficaLP1](https://github.com/gioborgesr/linguagem_de_programa-o/assets/144972362/5b034537-7e2c-4c25-b415-decb2c7c7e87)
 ![interfaceGraficaLP2](https://github.com/gioborgesr/linguagem_de_programa-o/assets/144972362/7afc01f4-108a-43c5-97c3-26067dd8bdb8)
